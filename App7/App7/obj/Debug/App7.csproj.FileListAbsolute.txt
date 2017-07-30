@@ -1,0 +1,15 @@
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\App7.dll
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\App7.pdb
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Core.dll
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Platform.dll
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Xaml.dll
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Core.pdb
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Core.xml
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Platform.pdb
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Xaml.pdb
+d:\documents\visual studio 2017\Projects\App7\App7\App7\bin\Debug\Xamarin.Forms.Xaml.xml
+d:\documents\visual studio 2017\Projects\App7\App7\App7\obj\Debug\App7.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\App7\App7\App7\obj\Debug\App7.MainPage.xaml.g.cs
+d:\documents\visual studio 2017\Projects\App7\App7\App7\obj\Debug\App7.App.xaml.g.cs
+d:\documents\visual studio 2017\Projects\App7\App7\App7\obj\Debug\App7.dll
+d:\documents\visual studio 2017\Projects\App7\App7\App7\obj\Debug\App7.pdb
